@@ -1,0 +1,26 @@
+.row{
+   background: red;
+   height: 300px;
+   width: 1500px;
+   display: flex;
+}
+.box1{
+    background: blue;
+    width: 500px;
+    height: 200px;
+    margin: 12px 12px 12px 12px;
+}
+
+.box2{
+    background: blue;
+    width: 500px;
+    height: 200px;
+    margin: 12px 12px 12px 12px;
+}
+
+.box3{
+    background: blue;
+    width: 500px;
+    height: 200px;
+    margin: 12px 12px 12px 12px;
+}
